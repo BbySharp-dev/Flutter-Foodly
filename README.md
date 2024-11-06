@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BbySharp-dev&repo=Fluttter-Foodly)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/BbySharp-dev/Fluttter-Foodly))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BbySharp-dev&repo=Flutter-Foodly)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/BbySharp-dev/Flutter-Foodly))
