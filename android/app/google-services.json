@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751619172811",
+    "project_id": "restaurant-8b7ef",
+    "storage_bucket": "restaurant-8b7ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751619172811:android:c6818020987c210defee4e",
+        "android_client_info": {
+          "package_name": "com.dbestech.restaurant_foodly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDgQ3jWmPEuSIbOqa6WtBvBxgWvHNlA10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751619172811:android:505acf19bf078471efee4e",
+        "android_client_info": {
+          "package_name": "com.example.foodly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDgQ3jWmPEuSIbOqa6WtBvBxgWvHNlA10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
